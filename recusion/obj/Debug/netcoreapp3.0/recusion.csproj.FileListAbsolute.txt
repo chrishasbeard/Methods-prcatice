@@ -1,0 +1,10 @@
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\bin\Debug\netcoreapp3.0\recusion.exe
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\bin\Debug\netcoreapp3.0\recusion.deps.json
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\bin\Debug\netcoreapp3.0\recusion.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\bin\Debug\netcoreapp3.0\recusion.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\bin\Debug\netcoreapp3.0\recusion.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\bin\Debug\netcoreapp3.0\recusion.pdb
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\obj\Debug\netcoreapp3.0\recusion.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\obj\Debug\netcoreapp3.0\recusion.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\obj\Debug\netcoreapp3.0\recusion.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\recusion\obj\Debug\netcoreapp3.0\recusion.pdb

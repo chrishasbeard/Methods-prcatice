@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day3 methods", "day3 methods\day3 methods.csproj", "{BA79647E-ADC5-40A5-863A-1F6D8FA24E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day3 methods", "day3 methods\day3 methods.csproj", "{BA79647E-ADC5-40A5-863A-1F6D8FA24E2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadIntergers", "ReadIntergers\ReadIntergers.csproj", "{B2BD9494-8080-4610-A21E-2097F1EE4094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadIntergers", "ReadIntergers\ReadIntergers.csproj", "{B2BD9494-8080-4610-A21E-2097F1EE4094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMax Method work in class", "FindMax Method work in class\FindMax Method work in class.csproj", "{63FE1A03-0A99-47C1-8B25-31036B917E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMax Method work in class", "FindMax Method work in class\FindMax Method work in class.csproj", "{63FE1A03-0A99-47C1-8B25-31036B917E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorExample", "CalculatorExample\CalculatorExample.csproj", "{2FF81F3C-E46E-4E77-B81E-C6C3A4F343F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorExample", "CalculatorExample\CalculatorExample.csproj", "{2FF81F3C-E46E-4E77-B81E-C6C3A4F343F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{C44F69C3-1B77-4928-82E7-C32F8ED84296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recusion", "recusion\recusion.csproj", "{1B6C8FB6-EE11-42A1-B366-170940DE29BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion2", "Recursion2\Recursion2.csproj", "{E955D748-4BB2-4689-8CDF-3C85ABBA4B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{2FF81F3C-E46E-4E77-B81E-C6C3A4F343F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF81F3C-E46E-4E77-B81E-C6C3A4F343F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF81F3C-E46E-4E77-B81E-C6C3A4F343F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44F69C3-1B77-4928-82E7-C32F8ED84296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44F69C3-1B77-4928-82E7-C32F8ED84296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44F69C3-1B77-4928-82E7-C32F8ED84296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44F69C3-1B77-4928-82E7-C32F8ED84296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6C8FB6-EE11-42A1-B366-170940DE29BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6C8FB6-EE11-42A1-B366-170940DE29BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6C8FB6-EE11-42A1-B366-170940DE29BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6C8FB6-EE11-42A1-B366-170940DE29BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E955D748-4BB2-4689-8CDF-3C85ABBA4B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E955D748-4BB2-4689-8CDF-3C85ABBA4B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E955D748-4BB2-4689-8CDF-3C85ABBA4B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E955D748-4BB2-4689-8CDF-3C85ABBA4B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
