@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\obj\Debug\netcoreapp3.0\CalculatorExample.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\obj\Debug\netcoreapp3.0\CalculatorExample.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\bin\Debug\netcoreapp3.0\CalculatorExample.exe
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\bin\Debug\netcoreapp3.0\CalculatorExample.deps.json
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\bin\Debug\netcoreapp3.0\CalculatorExample.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\bin\Debug\netcoreapp3.0\CalculatorExample.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\bin\Debug\netcoreapp3.0\CalculatorExample.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\bin\Debug\netcoreapp3.0\CalculatorExample.pdb
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\obj\Debug\netcoreapp3.0\CalculatorExample.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\obj\Debug\netcoreapp3.0\CalculatorExample.pdb
+C:\Users\Holmes HQ\source\repos\day3 methods\CalculatorExample\obj\Debug\netcoreapp3.0\CalculatorExample.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\bin\Debug\netcoreapp3.0\FindMax Method work in class.exe
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\bin\Debug\netcoreapp3.0\FindMax Method work in class.deps.json
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\bin\Debug\netcoreapp3.0\FindMax Method work in class.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\bin\Debug\netcoreapp3.0\FindMax Method work in class.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\bin\Debug\netcoreapp3.0\FindMax Method work in class.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\bin\Debug\netcoreapp3.0\FindMax Method work in class.pdb
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\obj\Debug\netcoreapp3.0\FindMax Method work in class.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\obj\Debug\netcoreapp3.0\FindMax Method work in class.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\obj\Debug\netcoreapp3.0\FindMax Method work in class.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\obj\Debug\netcoreapp3.0\FindMax Method work in class.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\FindMax Method work in class\obj\Debug\netcoreapp3.0\FindMax Method work in class.pdb

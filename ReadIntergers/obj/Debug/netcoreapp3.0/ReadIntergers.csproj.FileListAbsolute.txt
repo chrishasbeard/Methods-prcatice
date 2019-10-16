@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\bin\Debug\netcoreapp3.0\ReadIntergers.exe
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\bin\Debug\netcoreapp3.0\ReadIntergers.deps.json
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\bin\Debug\netcoreapp3.0\ReadIntergers.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\bin\Debug\netcoreapp3.0\ReadIntergers.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\bin\Debug\netcoreapp3.0\ReadIntergers.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\bin\Debug\netcoreapp3.0\ReadIntergers.pdb
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\obj\Debug\netcoreapp3.0\ReadIntergers.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\obj\Debug\netcoreapp3.0\ReadIntergers.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\obj\Debug\netcoreapp3.0\ReadIntergers.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\obj\Debug\netcoreapp3.0\ReadIntergers.dll
+C:\Users\Holmes HQ\source\repos\day3 methods\ReadIntergers\obj\Debug\netcoreapp3.0\ReadIntergers.pdb
